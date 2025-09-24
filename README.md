@@ -37,8 +37,7 @@ The **RAG Chatbot for Resume Consultation** is an AI-powered chatbot built to he
 ---
 ### Placeholder Image
 
-![RAG Chatbot for Resume Consultation Workflow](path/to/your/rag.png)
-
+![RAG Chatbot for Resume Consultation Workflow](rag.png)
 ---
 
 
